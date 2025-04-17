@@ -1,0 +1,61 @@
+Major,Course,Type
+Data science,Intro to Python,Required
+Data science,Statistics I,Required
+Data science,Linear Algebra,Required
+Data science,Data Wrangling,Required
+Data science,Data Visualization,Required
+Data science,Machine Learning,Required
+Data science,Big Data Analytics,Required
+Data science,Database Systems,Required
+Data science,Data Mining,Required
+Data science,Data Science Capstone 401,Required
+Data science,Deep Learning,Elective
+Data science,Natural Language Processing,Elective
+Data science,Time Series Analysis,Elective
+Data science,Bayesian Inference,Elective
+Data science,Geospatial Analysis,Elective
+Data science,Recommender Systems,Elective
+Data science,Data Ethics,Elective
+Data science,Business Analytics,Elective
+Data science,Data Security,Elective
+Data science,Visualization Tools,Elective
+Artificial intelligence,Intro to Python,Required
+Artificial intelligence,Probability & Statistics,Required
+Artificial intelligence,Linear Algebra,Required
+Artificial intelligence,Machine Learning,Required
+Artificial intelligence,Neural Networks,Required
+Artificial intelligence,Deep Learning,Required
+Artificial intelligence,Computer Vision,Required
+Artificial intelligence,Reinforcement Learning,Required
+Artificial intelligence,Ethics in AI,Required
+Artificial intelligence,Artificial Intelligence Capstone 401,Required
+Artificial intelligence,Natural Language Processing,Elective
+Artificial intelligence,Robotics in AI,Elective
+Artificial intelligence,Explainable AI,Elective
+Artificial intelligence,AI in Healthcare,Elective
+Artificial intelligence,Cognitive Science,Elective
+Artificial intelligence,Edge AI,Elective
+Artificial intelligence,Speech Recognition,Elective
+Artificial intelligence,Knowledge Representation,Elective
+Artificial intelligence,Big Data for AI,Elective
+Artificial intelligence,Advanced Algorithms for AI,Elective
+Cybersecurity,Intro to Cybersecurity,Required
+Cybersecurity,Computer Networks,Required
+Cybersecurity,Operating Systems,Required
+Cybersecurity,Cryptography,Required
+Cybersecurity,Network Security,Required
+Cybersecurity,System Security,Required
+Cybersecurity,Ethical Hacking,Required
+Cybersecurity,Digital Forensics,Required
+Cybersecurity,Security Policies,Required
+Cybersecurity,Cybersecurity Capstone 401,Required
+Cybersecurity,Advanced Cryptography,Elective
+Cybersecurity,Cloud Security,Elective
+Cybersecurity,IoT Security,Elective
+Cybersecurity,Mobile Security,Elective
+Cybersecurity,Penetration Testing,Elective
+Cybersecurity,Security Analytics,Elective
+Cybersecurity,Risk Management,Elective
+Cybersecurity,Security Auditing,Elective
+Cybersecurity,Cyber Law,Elective
+Cybersecurity,Incident Response,Elective
